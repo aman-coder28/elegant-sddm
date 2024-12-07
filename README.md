@@ -16,4 +16,4 @@ You should run the command below before install to test if all dependents was in
 - `sddm-greeter --test-mode --theme Elegant/`
 
 ## License
-DDE session ui is licensed under [GPL-3.0-or-later](LICENSE).
+licensed under [GPL-3.0-or-later](LICENSE).
