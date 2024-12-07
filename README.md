@@ -1,14 +1,11 @@
-## Deepin Theme for SDDM
+## Elegant Theme for SDDM
 
-SDDM, a Linux Login Manager, supports theming through QML, allowing for custom designs by developer. This theme uses the design of [linuxdeepin/dde-session-ui](https://github.com/linuxdeepin/dde-session-ui)
-
-
-![screenshot](https://github.com/surajmandalcell/Elegant-sddm/blob/master/Elegant/preview.png?raw=true)
+SDDM, a Linux Login Manager, supports theming through QML, allowing for custom designs by developer.
 
 ## Install
-1. `git clone https://github.com/surajmandalcell/Elegant-sddm.git`
+1. `git clone https://github.com/aman-coder28/elegant-sddm.git`
 
-2. `cd Elegant-sddm`
+2. `cd elegant-sddm`
 
 3. `./install.sh`
 
